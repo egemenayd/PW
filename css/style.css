@@ -521,7 +521,7 @@ footer {
 footer p:nth-child(2) {
     color: white;
     font-size: 17px;
-    width: 500px;
+    width: 100%;
     text-align: center;
     line-height: 26px;
 }
@@ -559,13 +559,6 @@ footer p:nth-child(2) {
 
 .social a:nth-child(3):hover {
     background: #222222;
-}
-
-.end {
-    position: absolute;
-    color: #f9004d;
-    bottom: 35px;
-    font-size: 14px;
 }
 
 
