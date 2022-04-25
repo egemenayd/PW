@@ -67,6 +67,9 @@
             width: 570px;
             height: 270px;
         }
+        .card a {
+            width: 300px;
+        }
     }
     
     @media (max-width:600px) {
